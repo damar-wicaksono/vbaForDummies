@@ -3,7 +3,7 @@ Attribute VB_Name = "Listing5_6"
 ' Listing 5-6 Handling Unforeseen Decision with a Select Case Else Statement
 ' Uses an Excel worksheet
 '
-Public Sub MakeChoice()
+Public Sub MakeChoice2()
     
     Dim CursorPosition As Integer   ' Current row selection
     Dim BinValue As Integer         ' Bin for selected row
